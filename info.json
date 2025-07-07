@@ -1,0 +1,11 @@
+{
+  "name": "CZ1977",
+  "symbol": "CZ77",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "CZ1977 is a meme token inspired by crypto culture, freedom and decentralization.",
+  "website": "https://m3ap.app",
+  "explorer": "https://bscscan.com/token/0x722b212b91e2930e90f6694ee03b9dea1e370c1c",
+  "status": "active",
+  "id": "cz1977"
+}
